@@ -4,3 +4,4 @@ matplotlib
 pillow
 joblib
 seaborn
+scikit-learn
